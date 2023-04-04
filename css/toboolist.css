@@ -17,6 +17,15 @@ header{
     top: 25px;
 }
 
+.blocco-in-linea{
+    display: inline-block;
+    font-size: 50pt;
+    position: relative;
+    left: 20px;
+    font-weight: 800;
+    color: rgb(57, 56, 66);
+}
+
 body{
-    background-color: lightgray;
+    background-color: rgb(231, 231, 231);
 }
