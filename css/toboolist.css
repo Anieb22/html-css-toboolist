@@ -42,7 +42,6 @@ body{
 .contenitore-2{
     margin: auto;
     width: 1050px;
-    height: 750px;
 }
 
 .colore-bottone{
@@ -59,4 +58,11 @@ body{
 .colore-bottone-2:hover{
     color: white;
     background-color: rgb(53, 133, 238);
+    border-color: white;
+}
+
+hr{
+    border: 2px solid rgb(231, 231, 231);
+    width: 1250px;
+    margin-top: 10px;
 }
