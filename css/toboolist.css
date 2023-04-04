@@ -38,3 +38,25 @@ body{
     width: 1250px;
     height: 750px;
 }
+
+.contenitore-2{
+    margin: auto;
+    width: 1050px;
+    height: 750px;
+}
+
+.colore-bottone{
+    background-color: white;
+    color: lightgray;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    margin-top: 20px;
+    font-size: 15px;
+
+}
+
+.colore-bottone-2:hover{
+    color: white;
+    background-color: rgb(53, 133, 238);
+}
