@@ -29,3 +29,12 @@ header{
 body{
     background-color: rgb(231, 231, 231);
 }
+
+.contenitore{
+    background-color: white;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    width: 1250px;
+    height: 750px;
+}
