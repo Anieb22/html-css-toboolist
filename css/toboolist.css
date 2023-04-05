@@ -73,14 +73,18 @@ hr{
     margin-top: 10px;
 }
 
+.lista-punti-interna{
+    list-style-position: inside;
+}
+
 .freccia{
     font-size: 30px;
-    list-style-type: "\27A4";
+    list-style-type: none;
 }
 
 .check{
     list-style-image: url(../img/Checked.svg);
-    vertical-align: middle;
+    padding-top: 0px;
 }
 
 .cross{
@@ -92,6 +96,8 @@ hr{
     color: rgb(57, 56, 66);
     display: inline-block;
     margin-top: 20px;
+    font-size: 20px;
+    font-weight: 600;
 }
 
 .label{
