@@ -79,17 +79,13 @@ hr{
 }
 
 .check{
-    list-style-type: "\2713";
-    color: lightgreen;
-    font-weight: 700;
-    font-size: 20px;
+    list-style-image: url(../img/Checked.svg);
+    vertical-align: middle;
 }
 
 .cross{
-    list-style-type: "\2716";
-    color: lightcoral;
-    font-weight: 700;
-    font-size: 20px;
+    list-style-image: url(../img/deleted.svg);
+    vertical-align: middle;
 }
 
 .testo-nero{
